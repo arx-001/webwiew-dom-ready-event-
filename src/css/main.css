@@ -1,0 +1,33 @@
+.page {
+    padding: 12px;
+    border-radius: 12px;
+    position: relative;
+    top: 10;
+    left: 12;
+    right: 120;
+    bottom: 0;
+    width: 100%;
+    height: calc(89vh - 28px);
+}
+.searchbox {
+    height: 39px;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+}
+
+#input{
+    width: 80%;
+    height: 45px;
+    outline: none;
+    background-color: black;
+    font-size: 19px;
+    color: white;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+
+body{
+    background-color: rgb(44, 44, 44);
+}
